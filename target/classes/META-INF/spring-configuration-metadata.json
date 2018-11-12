@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "cloudant",
+      "type": "com.kone.assignment.equipments.CloudantConfigurationProperties",
+      "sourceType": "com.kone.assignment.equipments.CloudantConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cloudant.db",
+      "type": "java.lang.String",
+      "sourceType": "com.kone.assignment.equipments.CloudantConfigurationProperties"
+    },
+    {
+      "name": "cloudant.password",
+      "type": "java.lang.String",
+      "sourceType": "com.kone.assignment.equipments.CloudantConfigurationProperties"
+    },
+    {
+      "name": "cloudant.url",
+      "type": "java.net.URL",
+      "sourceType": "com.kone.assignment.equipments.CloudantConfigurationProperties"
+    },
+    {
+      "name": "cloudant.username",
+      "type": "java.lang.String",
+      "sourceType": "com.kone.assignment.equipments.CloudantConfigurationProperties"
+    }
+  ],
+  "hints": []
+}

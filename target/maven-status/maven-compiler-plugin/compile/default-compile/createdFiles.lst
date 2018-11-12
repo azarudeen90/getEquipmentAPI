@@ -1,0 +1,6 @@
+com\kone\assignment\equipments\CloudantConfigurationProperties.class
+com\kone\assignment\equipments\Model\Equipment.class
+com\kone\assignment\equipments\GetEquipmentApiApplication.class
+com\kone\assignment\equipments\api\EquipmentsController.class
+com\kone\assignment\equipments\CloudantConfiguration.class
+META-INF\spring-configuration-metadata.json

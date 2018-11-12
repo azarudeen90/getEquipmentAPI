@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: getEquipmentAPI
+Implementation-Version: 0.0.1
+Built-By: 212480877
+Implementation-Vendor-Id: com.kone.assignment.equipments
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/getEquipmentAPI
+Created-By: Maven Integration for Eclipse
+
